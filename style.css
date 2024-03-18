@@ -1,0 +1,27 @@
+.pro_img {
+  width: 500px;
+  height: 400px;
+}
+
+* {
+  scroll-behavior: smooth;
+}
+body {
+  position: relative;
+}
+
+.arrow_up {
+  position: fixed;
+  right: 30%;
+  bottom: 10%;
+}
+.temp {
+  width: 100%;
+  height: 500px;
+}
+
+.img_ads_2 {
+  width: 100%;
+    object-position: center;
+  object-fit: cover;
+}
